@@ -1,5 +1,4 @@
 .mymetadata
-.recommenders
 .checkstyle
 .classpath
 .project
@@ -15,5 +14,3 @@
 /src/main/webapp/WEB-INF/classes/*
 /src/main/webapp/userfiles/*
 /target/
-.metadata
-RemoteSystemsTempFiles/*
